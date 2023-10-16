@@ -1,0 +1,72 @@
+
+
+
+#perio{
+    font-size: 14px;
+    color: hsl(0, 1%, 44%);
+    font-weight:bold;
+
+}
+#form{
+   
+   height: 350px;
+   width: 50%;
+   border-bottom-right-radius: 25px;
+   margin-top: 10%;
+   margin-left: 20%;
+   background-color:  hsl(0, 0%, 94%);
+
+    
+    
+}
+.top{
+    display: flex;
+    margin-left: 5%;
+    line-height: 0px;
+    position: relative;
+    margin-top: 20%;
+    padding-top: 5%;
+    
+    
+}
+#in{
+    width: 43%;
+    height: 60%;
+    border-radius: 10%;
+    border-color: hsl(0, 0%, 86%);
+    
+
+    
+}
+#perio{
+    color:hsl(0, 3%, 24%);
+    font-size: 10px;
+}
+
+.ymd{
+    display: flex;
+    flex-direction: column;
+    font-size: 32px;
+    margin-left: 7%;
+    line-height: 0%;
+    
+}
+.lin{
+    padding-top: 4%;
+    margin-left: 5%;
+    margin-right: 20%;
+    border-bottom: 2px solid hsl(0, 0%, 86%);
+    
+}
+.body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+#cli{
+    background-color: hsl(259, 100%, 65%);
+    border-radius: 50%;
+    margin-left: 400px;
+    
+}
